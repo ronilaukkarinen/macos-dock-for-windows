@@ -42,7 +42,7 @@ These apps are optional but make your Windows 10 to look and behave even more li
 1. [GrenShot](https://github.com/greenshot/greenshot) (open source)
 2. [QuickLook](https://github.com/QL-Win/QuickLook) (open source)
 3. [WinXCorners](https://github.com/vhanla/winxcorners) (open source)
-4. [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop)
+4. [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) (open source)
 
 ### Extra apps
 
