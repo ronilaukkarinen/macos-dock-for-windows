@@ -4,9 +4,17 @@
 
 Because using macOS daily I also want my Windows to look as minimal as possible. Dock is something I'm just used to instead of bulky start menus. This is why I tried to replicate it with Adobe Photoshop as close as possible. The dock is fully designed by me, following [macOS Design Guidelines](https://developer.apple.com/design/human-interface-guidelines/macos/overview/themes/).
 
+#### macOS Big Sur Dock
+
+[![macOS Dock](https://i.imgur.com/yQoFJs6.png)](https://i.imgur.com/yQoFJs6.png)
+
+#### macOS Dock for Windows 10
+
+[![macOS Dock on Windows 10](https://i.imgur.com/z7N9Fzi.png)](https://i.imgur.com/z7N9Fzi.png)
+
 Original Reddit thread: [My Windows 10 is now perfect](https://www.reddit.com/r/desktops/comments/mzslxe/my_windows_10_is_now_perfect/)
 
-### [Download dock theme from Google Drive](https://drive.google.com/file/d/1vxxYr7-kH8SmsupIUzPvOvdjuOAxf128/view) | [Download Secure UXTheme](https://drive.google.com/file/d/1fp1vdnbJwcinBC45RIEA24W73N-nYYfF/view?usp=sharing)
+### [Download dock theme](https://drive.google.com/file/d/1vxxYr7-kH8SmsupIUzPvOvdjuOAxf128/view) | [Download Secure UXTheme](https://drive.google.com/file/d/1fp1vdnbJwcinBC45RIEA24W73N-nYYfF/view?usp=sharing)
 
 #### Settings
 
@@ -14,6 +22,8 @@ Original Reddit thread: [My Windows 10 is now perfect](https://www.reddit.com/r/
 **Dock theme:**  macOS (Winstep Xtreme)<br>
 **Font:**  Selawik + Segoe UI (Winaero Tweaker or Font Changer)<br>
 **Taskbar:** TaskbarX transparent -100000 offset
+
+Please note: You might have to set indicator separately from settings.
 
 Tweak other settings according to your personal preferences.
 
