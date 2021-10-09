@@ -46,7 +46,7 @@ These apps are optional but make your Windows 10 to look and behave even more li
 
 ### Extra apps
 
-With these you can hide and desable stuff that are not needed and polish your Windows 10 even further.
+With these you can hide and disable stuff that are not needed and polish your Windows 10 even further.
 
 1. [AltSnap](https://github.com/RamonUnch/AltSnap) (open source)
 2. [7+ Taskbar Tweaker](https://github.com/m417z/7-Taskbar-Tweaker) (open source)
