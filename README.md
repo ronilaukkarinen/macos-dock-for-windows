@@ -14,7 +14,7 @@ Because using macOS daily I also want my Windows to look as minimal as possible.
 
 Original Reddit thread: [My Windows 10 is now perfect](https://www.reddit.com/r/desktops/comments/mzslxe/my_windows_10_is_now_perfect/)
 
-### [Download dock theme](https://drive.google.com/file/d/1vxxYr7-kH8SmsupIUzPvOvdjuOAxf128/view) | [Download Secure UXTheme](https://drive.google.com/file/d/1fp1vdnbJwcinBC45RIEA24W73N-nYYfF/view?usp=sharing)
+### [Download](https://github.com/ronilaukkarinen/macos-dock-for-windows/releases)
 
 #### Settings
 
